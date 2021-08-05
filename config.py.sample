@@ -1,4 +1,0 @@
-BOT_TOKEN = "" #TG Bot Token
-ALLOWED_CHATS = [ #Allowed chat IDs
-    "123456789"
-]
